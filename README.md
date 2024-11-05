@@ -14,9 +14,6 @@ Open-source projects related to cybersecurity, network monitoring, and automatio
 ## How to reach me ...
 Feel free to reach out to me on LinkedIn or via GitHub if you're interested in connecting or collaborating on a project.
 
-## Pronouns: ...
-He/Him
-
 ## Fun fact:
 I'm an endurance runner and chess player. Both hobbies influence the way I code and tackle complex challenges with focus and perseverance.
 
