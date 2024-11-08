@@ -1,3 +1,7 @@
+
+![logo](./logo-duarte.png)
+
+
 # Hi, I’m @duarte-ferreira-santos
 
 I'm a cybersecurity and IT professional with over 17 years of experience in technical support, network operations, and cybersecurity. 
